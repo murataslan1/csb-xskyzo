@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://murataslan1.github.io/csb-xskyzo/static/css/main.c73e0707.chunk.css",
+    "main.js": "https://murataslan1.github.io/csb-xskyzo/static/js/main.2e733db6.chunk.js",
+    "main.js.map": "https://murataslan1.github.io/csb-xskyzo/static/js/main.2e733db6.chunk.js.map",
+    "runtime-main.js": "https://murataslan1.github.io/csb-xskyzo/static/js/runtime-main.f0187628.js",
+    "runtime-main.js.map": "https://murataslan1.github.io/csb-xskyzo/static/js/runtime-main.f0187628.js.map",
+    "static/css/2.31ff0196.chunk.css": "https://murataslan1.github.io/csb-xskyzo/static/css/2.31ff0196.chunk.css",
+    "static/js/2.b8897d40.chunk.js": "https://murataslan1.github.io/csb-xskyzo/static/js/2.b8897d40.chunk.js",
+    "static/js/2.b8897d40.chunk.js.map": "https://murataslan1.github.io/csb-xskyzo/static/js/2.b8897d40.chunk.js.map",
+    "static/js/3.aa83c1a7.chunk.js": "https://murataslan1.github.io/csb-xskyzo/static/js/3.aa83c1a7.chunk.js",
+    "static/js/3.aa83c1a7.chunk.js.map": "https://murataslan1.github.io/csb-xskyzo/static/js/3.aa83c1a7.chunk.js.map",
+    "index.html": "https://murataslan1.github.io/csb-xskyzo/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "https://murataslan1.github.io/csb-xskyzo/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.c73e0707.chunk.css.map": "https://murataslan1.github.io/csb-xskyzo/static/css/main.c73e0707.chunk.css.map",
+    "static/js/2.b8897d40.chunk.js.LICENSE.txt": "https://murataslan1.github.io/csb-xskyzo/static/js/2.b8897d40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0187628.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.b8897d40.chunk.js",
+    "static/css/main.c73e0707.chunk.css",
+    "static/js/main.2e733db6.chunk.js"
+  ]
+}
